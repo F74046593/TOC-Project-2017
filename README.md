@@ -10,17 +10,18 @@ A telegram bot based on a finite state machine
 ![fsm](./img/fsm.png)
 
 ## Usage
-The initial state is set to `user`.
-
-Every time `user` state is triggered to `advance` to another state, it will `go_back` to `user` state after the bot replies corresponding message.
-
 * user
-	* Input: "go to state1"
-		* Reply: "I'm entering state1"
+	* Input: "u1"
+		* Reply: "one pass,one fail"
 
-	* Input: "go to state2"
-		* Reply: "I'm entering state2"
-
+	* Input: "u2"
+		* Reply: "two pass"
+		
+	* Input: "u3"
+		* Reply: "I hope I can pass"
+	
+	* Input: "mumi"
+		* mumi.jpg(photo)"
 
 ## Author
 [F74046593](https://github.com/F74046593)
