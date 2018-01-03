@@ -7,7 +7,7 @@ A telegram bot based on a finite state machine
 
 
 ## Finite State Machine
-![fsm](./img/show-fsm.png)
+![fsm](./img/fsm.png)
 
 ## Usage
 The initial state is set to `user`.
