@@ -21,7 +21,7 @@ A telegram bot based on a finite state machine
 		* Reply: "I hope I can pass"
 	
 	* Input: "mumi"
-		* mumi.jpg(photo)"
+		* Reply: "mumi.jpg(photo)"
 
 ## Author
 [F74046593](https://github.com/F74046593)
